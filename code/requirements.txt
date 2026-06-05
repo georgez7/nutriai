@@ -1,0 +1,33 @@
+# NutriAI — requirements.txt
+# Install: pip install -r requirements.txt
+
+# ── Web UI ─────────────────────────────────────────────────────────────────
+streamlit==1.35.0
+plotly==5.22.0
+
+# ── Data & numerics ────────────────────────────────────────────────────────
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+
+# ── Vector search (FAISS) ──────────────────────────────────────────────────
+faiss-cpu==1.8.0
+
+# ── Machine learning / RL ─────────────────────────────────────────────────
+scikit-learn==1.4.2
+
+# ── Database ───────────────────────────────────────────────────────────────
+# sqlite3 is stdlib — no install needed
+
+# ── HTTP client (USDA API) ────────────────────────────────────────────────
+requests==2.32.2
+
+# ── Constraint satisfaction ───────────────────────────────────────────────
+python-constraint==1.4.0
+
+# ── Utilities ──────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+tqdm==4.66.4
+
+# ── Dev / testing ──────────────────────────────────────────────────────────
+pytest==8.2.0

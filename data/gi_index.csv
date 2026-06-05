@@ -1,0 +1,180 @@
+food_name,gi_value,gl_per_serving,serving_g,category,notes
+white bread,75,11,30,grains,high GI staple
+whole wheat bread,69,9,30,grains,moderate
+sourdough bread,54,8,30,grains,fermentation lowers GI
+rye bread,58,8,30,grains,moderate
+pumpernickel bread,41,5,30,grains,low GI dense bread
+white rice,73,29,150,grains,high GI
+brown rice,68,22,150,grains,moderate
+basmati rice,57,18,150,grains,lower than white rice
+sushi rice,72,28,150,grains,similar to white rice
+jasmine rice,109,46,150,grains,very high GI
+wild rice,57,18,150,grains,moderate
+white pasta,49,24,180,grains,al dente lowers GI further
+whole wheat pasta,48,22,180,grains,low GI
+egg noodles,40,18,180,grains,low GI
+rice noodles,53,23,180,grains,moderate
+oats rolled,55,13,50,grains,moderate — beta-glucan beneficial
+oats steel cut,42,9,50,grains,low GI
+instant oats,79,21,50,grains,high GI
+corn flakes,81,21,30,cereals,very high GI
+bran flakes,74,19,30,cereals,high GI
+muesli,57,15,50,cereals,moderate
+granola,62,16,50,cereals,moderate
+all bran,55,12,30,cereals,low-moderate
+white flour tortilla,62,15,40,grains,moderate
+corn tortilla,52,12,40,grains,lower than wheat
+quinoa,53,13,150,grains,low-moderate, high protein
+buckwheat,49,11,150,grains,low GI pseudo-grain
+barley,28,6,150,grains,very low GI
+bulgur wheat,47,10,150,grains,low GI
+couscous,65,23,150,grains,moderate-high
+polenta,69,20,150,grains,moderate-high
+millet,71,25,150,grains,moderate-high
+apple,36,5,120,fruits,low GI
+pear,38,4,120,fruits,low GI
+orange,43,5,120,fruits,low GI
+grapefruit,25,3,120,fruits,low GI
+banana ripe,62,16,120,fruits,moderate — ripeness increases GI
+banana unripe,42,9,120,fruits,lower GI
+mango,51,8,120,fruits,moderate
+pineapple,59,7,120,fruits,moderate
+watermelon,76,4,120,fruits,high GI but low GL
+strawberries,40,1,120,fruits,low GI
+blueberries,53,4,120,fruits,low-moderate
+cherries,20,3,120,fruits,very low GI
+grapes,59,11,120,fruits,moderate
+kiwi,52,7,120,fruits,moderate
+peach,42,5,120,fruits,low GI
+plum,39,5,120,fruits,low GI
+apricot,57,5,120,fruits,moderate
+dates,42,18,60,fruits,low GI but high GL per serving
+dried apricots,30,8,60,fruits,low GI
+raisins,64,28,60,fruits,moderate GI high GL
+prunes,29,10,60,fruits,low GI
+papaya,58,9,120,fruits,moderate
+pomegranate,35,5,120,fruits,low GI
+fig fresh,35,5,120,fruits,low GI
+lychee,79,11,120,fruits,high GI
+cantaloupe,65,4,120,fruits,moderate GI low GL
+honeydew,70,5,120,fruits,moderate-high
+raspberries,32,2,120,fruits,low GI
+blackberries,25,1,120,fruits,very low GI
+sweet potato,61,17,150,vegetables,moderate
+white potato boiled,82,21,150,vegetables,high GI
+white potato baked,85,26,150,vegetables,high GI
+french fries,63,22,150,vegetables,moderate-high
+potato mashed,87,17,150,vegetables,high GI
+yam,54,13,150,vegetables,moderate
+cassava,46,12,150,vegetables,moderate when boiled
+parsnip,52,4,80,vegetables,moderate low GL
+carrot raw,35,2,80,vegetables,low GI
+carrot cooked,41,3,80,vegetables,low GI
+peas,54,4,80,vegetables,moderate
+corn sweetcorn,55,9,80,vegetables,moderate
+pumpkin,75,3,80,vegetables,high GI but very low GL
+beetroot,61,5,80,vegetables,moderate
+turnip,62,3,80,vegetables,moderate low GL
+broccoli,15,1,80,vegetables,very low GI
+cauliflower,15,1,80,vegetables,very low GI
+cabbage,10,1,80,vegetables,very low GI
+spinach,15,1,80,vegetables,very low GI
+kale,4,0,80,vegetables,very low GI
+lettuce,10,1,80,vegetables,very low GI
+tomato,15,1,80,vegetables,very low GI
+cucumber,15,1,80,vegetables,very low GI
+zucchini,15,1,80,vegetables,very low GI
+eggplant,15,1,80,vegetables,very low GI
+bell pepper,15,1,80,vegetables,very low GI
+mushroom,15,1,80,vegetables,very low GI
+asparagus,15,1,80,vegetables,very low GI
+green beans,15,1,80,vegetables,very low GI
+celery,15,1,80,vegetables,very low GI
+avocado,15,0,80,vegetables,very low GI — high fat
+onion,10,1,80,vegetables,very low GI
+garlic,10,0,80,vegetables,very low GI
+leek,15,1,80,vegetables,very low GI
+lentils red,26,5,150,legumes,low GI excellent diabetic food
+lentils green,30,5,150,legumes,low GI
+chickpeas,28,8,150,legumes,low GI
+black beans,30,7,150,legumes,low GI
+kidney beans,29,7,150,legumes,low GI
+navy beans,31,9,150,legumes,low GI
+pinto beans,33,10,150,legumes,low GI
+edamame,18,1,150,legumes,very low GI
+soybeans,18,1,150,legumes,very low GI
+tofu,15,0,100,legumes,very low GI
+tempeh,15,0,100,legumes,very low GI
+hummus,28,2,50,legumes,low GI
+chicken breast,0,0,100,proteins,no GI — protein/fat only
+chicken thigh,0,0,100,proteins,no GI
+turkey breast,0,0,100,proteins,no GI
+lean beef,0,0,100,proteins,no GI
+beef fatty,0,0,100,proteins,no GI
+pork loin,0,0,100,proteins,no GI
+lamb,0,0,100,proteins,no GI
+salmon,0,0,100,proteins,no GI — omega-3 rich
+tuna,0,0,100,proteins,no GI
+cod,0,0,100,proteins,no GI
+shrimp,0,0,100,proteins,no GI
+eggs,0,0,100,proteins,no GI
+whole milk,27,3,250,dairy,low GI
+skim milk,32,4,250,dairy,low GI
+yogurt plain,14,2,150,dairy,low GI — probiotics beneficial
+yogurt greek,11,1,150,dairy,very low GI
+yogurt flavoured,33,11,150,dairy,moderate — added sugar
+ice cream,57,6,50,dairy,moderate
+cottage cheese,10,1,100,dairy,very low GI
+cheddar cheese,0,0,30,dairy,no GI
+butter,0,0,14,dairy,no GI — pure fat
+cream,0,0,30,dairy,no GI — pure fat
+soy milk,44,4,250,dairy_alternatives,low GI
+almond milk,25,1,250,dairy_alternatives,very low GI
+oat milk,69,9,250,dairy_alternatives,moderate-high
+rice milk,86,23,250,dairy_alternatives,high GI
+coconut milk,41,2,250,dairy_alternatives,low GI
+almonds,0,0,30,nuts_seeds,essentially zero GI
+walnuts,15,0,30,nuts_seeds,very low GI
+cashews,27,3,30,nuts_seeds,low GI
+peanuts,14,1,30,nuts_seeds,very low GI
+peanut butter,14,2,30,nuts_seeds,very low GI
+sunflower seeds,35,2,30,nuts_seeds,low GI
+chia seeds,1,0,20,nuts_seeds,essentially zero GI
+flaxseeds,35,1,20,nuts_seeds,low GI
+pumpkin seeds,25,1,30,nuts_seeds,low GI
+tahini,35,1,20,nuts_seeds,low GI
+olive oil,0,0,14,fats_oils,no GI — pure fat
+coconut oil,0,0,14,fats_oils,no GI — pure fat
+canola oil,0,0,14,fats_oils,no GI — pure fat
+sugar white,65,7,10,sweeteners,moderate-high
+honey,58,11,20,sweeteners,moderate
+maple syrup,54,10,20,sweeteners,moderate
+agave nectar,15,7,20,sweeteners,low GI
+stevia,0,0,5,sweeteners,no GI
+erythritol,0,0,5,sweeteners,no GI
+dark chocolate 70pct,22,6,30,snacks,low GI
+milk chocolate,43,12,30,snacks,moderate
+potato chips,56,12,30,snacks,moderate
+popcorn,72,8,20,snacks,high GI
+rice cakes,82,17,25,snacks,very high GI
+pretzels,83,16,30,snacks,very high GI
+crackers whole grain,59,10,25,snacks,moderate
+orange juice,50,13,250,beverages,moderate
+apple juice,44,12,250,beverages,moderate
+cola soda,63,16,250,beverages,moderate-high
+sports drink,78,22,500,beverages,high GI
+coffee black,0,0,240,beverages,no GI
+tea black,0,0,240,beverages,no GI
+water,0,0,240,beverages,no GI
+beer,66,13,330,beverages,moderate
+wine red,0,0,150,beverages,essentially no GI
+pizza cheese,60,16,100,mixed_dishes,moderate
+burger bun,61,16,60,mixed_dishes,moderate
+sushi roll,55,19,150,mixed_dishes,moderate
+fried rice,77,29,200,mixed_dishes,high GI
+pad thai,45,26,200,mixed_dishes,moderate
+burrito flour,58,32,250,mixed_dishes,moderate
+dahl lentil,44,8,200,mixed_dishes,low-moderate
+vegetable curry,41,7,200,mixed_dishes,low-moderate
+chicken stir fry,35,5,200,mixed_dishes,low GI
+salmon with rice,55,20,300,mixed_dishes,moderate

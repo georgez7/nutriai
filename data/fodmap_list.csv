@@ -1,0 +1,123 @@
+food_name,fodmap_status,category,notes
+garlic,unsafe,allium,Very high fructans
+onion,unsafe,allium,Very high fructans
+leek,unsafe,allium,High fructans
+spring onion (white part),unsafe,allium,High fructans
+shallot,unsafe,allium,High fructans
+chives,safe,allium,Low FODMAP at 1 tbsp
+garlic-infused oil,safe,condiment,FODMAPs not oil-soluble
+wheat,unsafe,grain,High fructans
+rye,unsafe,grain,High fructans
+barley,unsafe,grain,High fructans
+spelt,unsafe,grain,High fructans (whole grain)
+apple,unsafe,fruit,High fructose + sorbitol
+pear,unsafe,fruit,High fructose + sorbitol
+mango,unsafe,fruit,High fructose
+watermelon,unsafe,fruit,High fructose + mannitol
+cherry,unsafe,fruit,High sorbitol
+apricot,unsafe,fruit,High sorbitol
+nectarine,unsafe,fruit,High sorbitol
+plum,unsafe,fruit,High sorbitol
+peach,unsafe,fruit,High sorbitol
+blackberry,unsafe,fruit,Moderate fructose
+milk,unsafe,dairy,Lactose
+yogurt,unsafe,dairy,Lactose (regular)
+ice cream,unsafe,dairy,Lactose
+soft cheese,unsafe,dairy,Lactose (ricotta cream etc)
+ricotta,unsafe,dairy,Lactose
+condensed milk,unsafe,dairy,Lactose
+lentils,unsafe,legume,High GOS (canned OK in small servings)
+chickpeas,unsafe,legume,High GOS (canned 1/4 cup is low)
+kidney beans,unsafe,legume,High GOS
+baked beans,unsafe,legume,High GOS
+split peas,unsafe,legume,High GOS
+cashews,unsafe,nut,High GOS + fructans
+pistachios,unsafe,nut,High fructans + GOS
+honey,unsafe,sweetener,High fructose
+agave,unsafe,sweetener,High fructose
+high fructose corn syrup,unsafe,sweetener,High fructose
+sorbitol,unsafe,sweetener,Polyol
+mannitol,unsafe,sweetener,Polyol
+xylitol,unsafe,sweetener,Polyol
+cauliflower,unsafe,vegetable,High mannitol
+mushroom,unsafe,vegetable,High mannitol
+asparagus,unsafe,vegetable,High fructans + mannitol
+artichoke,unsafe,vegetable,High fructans
+beetroot,unsafe,vegetable,Moderate fructans (>2 slices)
+celery,unsafe,vegetable,High mannitol (>1/2 stalk)
+corn (large serve),unsafe,vegetable,High fructose
+savoy cabbage,unsafe,vegetable,High fructans
+broccoli (large serve),unsafe,vegetable,Moderate fructans
+peas,unsafe,legume,High GOS + fructans
+brown rice,safe,grain,Low FODMAP
+white rice,safe,grain,Low FODMAP
+quinoa,safe,grain,Low FODMAP
+oat (rolled),safe,grain,Low FODMAP (1/2 cup)
+millet,safe,grain,Low FODMAP
+buckwheat,safe,grain,Low FODMAP
+cornmeal,safe,grain,Low FODMAP
+potato,safe,vegetable,Low FODMAP
+sweet potato,safe,vegetable,Low FODMAP (1/2 cup)
+carrot,safe,vegetable,Low FODMAP
+zucchini,safe,vegetable,Low FODMAP
+eggplant,safe,vegetable,Low FODMAP
+spinach,safe,vegetable,Low FODMAP (cooked)
+kale,safe,vegetable,Low FODMAP
+bok choy,safe,vegetable,Low FODMAP
+green beans,safe,vegetable,Low FODMAP
+capsicum,safe,vegetable,Low FODMAP
+tomato,safe,vegetable,Low FODMAP (limit to 1 medium)
+cucumber,safe,vegetable,Low FODMAP
+broccoli (small serve),safe,vegetable,Low FODMAP (<1/2 cup)
+cabbage (common),safe,vegetable,Low FODMAP
+lettuce,safe,vegetable,Low FODMAP
+pumpkin,safe,vegetable,Low FODMAP (1/2 cup)
+turnip,safe,vegetable,Low FODMAP
+blueberries,safe,fruit,Low FODMAP
+strawberries,safe,fruit,Low FODMAP
+raspberry,safe,fruit,Low FODMAP (10 berries)
+orange,safe,fruit,Low FODMAP
+mandarin,safe,fruit,Low FODMAP
+kiwi,safe,fruit,Low FODMAP
+pineapple,safe,fruit,Low FODMAP
+grapes,safe,fruit,Low FODMAP (10 grapes)
+banana (unripe),safe,fruit,Low FODMAP (firm/yellow)
+banana (ripe),unsafe,fruit,High fructose (overripe)
+papaya,safe,fruit,Low FODMAP
+passionfruit,safe,fruit,Low FODMAP
+cantaloupe,safe,fruit,Low FODMAP (1/4 cup)
+chicken,safe,protein,Low FODMAP
+turkey,safe,protein,Low FODMAP
+beef,safe,protein,Low FODMAP
+lamb,safe,protein,Low FODMAP
+pork,safe,protein,Low FODMAP
+salmon,safe,protein,Low FODMAP
+tuna,safe,protein,Low FODMAP
+cod,safe,protein,Low FODMAP
+shrimp,safe,protein,Low FODMAP
+egg,safe,protein,Low FODMAP
+tofu (firm),safe,protein,Low FODMAP (firm only)
+tempeh,safe,protein,Low FODMAP (fermented lowers GOS)
+cheddar cheese,safe,dairy,Low lactose
+brie,safe,dairy,Low lactose
+camembert,safe,dairy,Low lactose
+lactose-free milk,safe,dairy,Low FODMAP
+almond milk,safe,dairy_alternative,Low FODMAP (check for carrageenan)
+rice milk,safe,dairy_alternative,Low FODMAP
+oat milk,safe,dairy_alternative,Low FODMAP (1/4 cup)
+almonds,safe,nut,Low FODMAP (10 nuts)
+walnuts,safe,nut,Low FODMAP (10 halves)
+peanuts,safe,nut,Low FODMAP
+pecans,safe,nut,Low FODMAP (10 halves)
+macadamia,safe,nut,Low FODMAP
+chia seeds,safe,seed,Low FODMAP (2 tbsp)
+flaxseed,safe,seed,Low FODMAP (1 tbsp)
+pumpkin seeds,safe,seed,Low FODMAP
+sunflower seeds,safe,seed,Low FODMAP
+olive oil,safe,fat,Low FODMAP
+coconut oil,safe,fat,Low FODMAP
+butter,safe,fat,Low FODMAP (low lactose)
+maple syrup,safe,sweetener,Low FODMAP (2 tbsp)
+white sugar,safe,sweetener,Low FODMAP
+brown sugar,safe,sweetener,Low FODMAP
+stevia,safe,sweetener,Low FODMAP

@@ -1,0 +1,56 @@
+nutrient,unit,age_group,sex,rda_value,source
+calories,kcal,19-30,female,2000,NIH DRI 2020
+calories,kcal,31-50,female,1800,NIH DRI 2020
+calories,kcal,51-70,female,1600,NIH DRI 2020
+calories,kcal,71+,female,1600,NIH DRI 2020
+calories,kcal,19-30,male,2500,NIH DRI 2020
+calories,kcal,31-50,male,2300,NIH DRI 2020
+calories,kcal,51-70,male,2100,NIH DRI 2020
+calories,kcal,71+,male,2000,NIH DRI 2020
+protein_g,g,19-30,female,46,NIH DRI 2020
+protein_g,g,31-50,female,46,NIH DRI 2020
+protein_g,g,51-70,female,46,NIH DRI 2020
+protein_g,g,71+,female,46,NIH DRI 2020
+protein_g,g,19-30,male,56,NIH DRI 2020
+protein_g,g,31-50,male,56,NIH DRI 2020
+protein_g,g,51-70,male,56,NIH DRI 2020
+protein_g,g,71+,male,56,NIH DRI 2020
+carbs_g,g,all,all,130,NIH DRI 2020
+fat_g,g,19-30,female,65,NIH DRI (AI 20-35% of calories)
+fat_g,g,19-30,male,78,NIH DRI (AI 20-35% of calories)
+fiber_g,g,19-30,female,25,NIH DRI 2020
+fiber_g,g,31-50,female,25,NIH DRI 2020
+fiber_g,g,51-70,female,21,NIH DRI 2020
+fiber_g,g,71+,female,21,NIH DRI 2020
+fiber_g,g,19-30,male,38,NIH DRI 2020
+fiber_g,g,31-50,male,38,NIH DRI 2020
+fiber_g,g,51-70,male,30,NIH DRI 2020
+fiber_g,g,71+,male,30,NIH DRI 2020
+calcium_mg,mg,9-18,all,1300,NIH ODS 2022
+calcium_mg,mg,19-50,female,1000,NIH ODS 2022
+calcium_mg,mg,51-70,female,1200,NIH ODS 2022
+calcium_mg,mg,71+,female,1200,NIH ODS 2022
+calcium_mg,mg,19-70,male,1000,NIH ODS 2022
+calcium_mg,mg,71+,male,1200,NIH ODS 2022
+iron_mg,mg,9-13,all,8,NIH ODS 2022
+iron_mg,mg,14-18,female,15,NIH ODS 2022
+iron_mg,mg,19-50,female,18,NIH ODS 2022
+iron_mg,mg,51+,female,8,NIH ODS 2022
+iron_mg,mg,14-18,male,11,NIH ODS 2022
+iron_mg,mg,19+,male,8,NIH ODS 2022
+zinc_mg,mg,14+,female,8,NIH ODS 2022
+zinc_mg,mg,14+,male,11,NIH ODS 2022
+potassium_mg,mg,19+,female,2600,NIH DRI AI 2019
+potassium_mg,mg,19+,male,3400,NIH DRI AI 2019
+magnesium_mg,mg,19-30,female,310,NIH ODS 2022
+magnesium_mg,mg,31+,female,320,NIH ODS 2022
+magnesium_mg,mg,19-30,male,400,NIH ODS 2022
+magnesium_mg,mg,31+,male,420,NIH ODS 2022
+sodium_mg,mg,all,all,2300,NIH DASH (upper limit)
+vitamin_c_mg,mg,19+,female,75,NIH ODS 2022
+vitamin_c_mg,mg,19+,male,90,NIH ODS 2022
+vitamin_d_mcg,mcg,1-70,all,15,NIH ODS 2022
+vitamin_d_mcg,mcg,71+,all,20,NIH ODS 2022
+vitamin_b12_mcg,mcg,14+,all,2.4,NIH ODS 2022
+phosphorus_mg,mg,19+,all,700,NIH DRI 2020
+phosphorus_mg,mg,9-18,all,1250,NIH DRI 2020
